@@ -22,7 +22,7 @@ Our final project is building a website which introduce three majority ethnics i
 Tips: It is possible a little bit slow to load the video in the website. Please wait about 10s after you click the button "video".
 
 ### Links 
-[YouTube demo video](https//youtu.be/jT3kwyFLiDM) <br>
+YouTube demo video: https//youtu.be/jT3kwyFLiDM <br>
 Link for the Website: yihewang.epizy.com/4320/home.php
 
 
