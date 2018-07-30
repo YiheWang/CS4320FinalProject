@@ -1,5 +1,7 @@
 ### Record of Work Distribution 
 ***
+[Back to Homepage](https://github.com/YiheWang/CS4320FinalProject)
+***
 7.16.2018
 Determining what we want to do. We decided to build a website to introduce major Chinese ethnics and culture. Besides, distributed the works to individuals.
 ***
