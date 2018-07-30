@@ -8,7 +8,7 @@ Yi Zhao <br>
 Tianyuan Deng<br>
 Jiacong Ma<br>
 
-Because we built a website, we did not upload the code until test it on the server.
+Because we built a website, we did not upload the code until test it on the server.<br>
 [link to record of work distribution](https://github.com/YiheWang/CS4320FinalProject/blob/master/Record%20of%20%20Work%20Distribution.md)
 ***
 
@@ -23,7 +23,7 @@ Tips: It is possible a little bit slow to load the video in the website. Please 
 
 ### Links 
 [YouTube demo video](https//youtu.be/jT3kwyFLiDM) <br>
-[Link for the Website](yihewang.epizy.com/4320/home.php)
+Link for the Website: yihewang.epizy.com/4320/home.php
 
 
  
